@@ -1,1 +1,3 @@
 *.sublime_session
+Lib/
+Local/
