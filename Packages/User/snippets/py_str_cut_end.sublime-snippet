@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+[:${1:text}.find('${2:cuttext}') + len('${2:cuttext}')] + '${3:addtext}'
+]]></content>
+    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+<tabTrigger>py_str_cut_end</tabTrigger>
+    <!-- Optional: Set a scope to limit where the snippet will trigger -->
+<scope>source.python</scope>
+</snippet>

@@ -1,0 +1,26 @@
+<snippet>
+    <content><![CDATA[
+
+"""Customization of your App in admin view
+    you can change Listview and Form
+"""
+class ${1:Profile}Admin(admin.ModelAdmin):
+    """change Listview here"""
+    # defines the fields to be displayed in Listview
+    list_display = (${2:'user', 'firstName', 'lastName', 'street', 
+                        'city', 'mobile', 'createDate'})
+    # defines the Fields you can filter by in Listview
+    list_filter = (${3:'city', 'lastName'},)
+
+    """change Form fields here"""
+    # in/exclude fields from admin Form
+    # fields = ('city', )
+
+admin.site.register(${1:Profile}, ${1:Profile}Admin)
+
+]]></content>
+    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+    <tabTrigger>dj_admin_register_app</tabTrigger>
+    <!-- Optional: Set a scope to limit where the snippet will trigger -->
+    <scope>source.python</scope>
+</snippet>

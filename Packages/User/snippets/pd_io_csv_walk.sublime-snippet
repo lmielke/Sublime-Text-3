@@ -1,0 +1,15 @@
+<snippet>
+    <content><![CDATA[
+import os, re
+import pandas as pd
+
+files = (os.path.join(ps, f) for ps, _, fs in os.walk(${1:filePath}) for f in fs if re.match(${2:fileRegex}, f))
+df1 = pd.concat((pd.read_csv(file, delimiter=${3:fileSeperator}) for file in files), ignore_index=True)
+print(df1)
+
+]]></content>
+    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+    <tabTrigger>pd_io_csv_walk</tabTrigger>
+    <!-- Optional: Set a scope to limit where the snippet will trigger -->
+    <scope>source.python</scope>
+</snippet>

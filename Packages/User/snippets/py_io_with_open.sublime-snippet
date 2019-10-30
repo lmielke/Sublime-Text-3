@@ -1,0 +1,9 @@
+<snippet>
+    <content>
+        <![CDATA[with open("${1:file}", "${2:w}") as f: ${3:outtext} = f.read()]]>
+    </content>
+    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+    <tabTrigger>py_io_with_open</tabTrigger>
+    <!-- Optional: Set a scope to limit where the snippet will trigger -->
+    <scope>source.python</scope>
+</snippet>

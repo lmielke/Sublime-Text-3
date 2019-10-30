@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+${1:df}[${1:df}.loc[:, ${2:'A'}].isin([${3:'first'}, ${4:'second'}])]
+]]></content>
+    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+    <tabTrigger>pd_df_filter_rows_by_value</tabTrigger>
+    <!-- Optional: Set a scope to limit where the snippet will trigger -->
+    <scope>source.python</scope>
+</snippet>

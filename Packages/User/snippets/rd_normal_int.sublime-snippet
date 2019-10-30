@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+min(max(int(random.gauss(${1:mean}, ${1:mean}/${2:stdScaler})), ${3:lowerBound}), ${4:upperBound})
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>rd_normal_int</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>source.python</scope>
+</snippet>

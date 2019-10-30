@@ -1,0 +1,26 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"1337 Color Scheme",
+		"A File Icon",
+		"AdvancedNewFile",
+		"BracketHighlighter",
+		"Djaneiro",
+		"Django",
+		"Django Lookup Snippets",
+		"DocBlockr_Python",
+		"Emmet",
+		"GitGutter",
+		"Material Theme",
+		"Package Control",
+		"Python 3",
+		"Python Breakpoints",
+		"Python Completions",
+		"SideBarEnhancements",
+		"SublimeCodeIntel"
+	]
+}

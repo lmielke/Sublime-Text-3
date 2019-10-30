@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+cols.insert(0, cols.pop(cols.index(${1:'colName'})))
+]]></content>
+    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+    <tabTrigger>pd_df_move_col_to_front</tabTrigger>
+    <!-- Optional: Set a scope to limit where the snippet will trigger -->
+    <scope>source.python</scope>
+</snippet>

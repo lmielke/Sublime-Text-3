@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+np.random.normal(loc=${1:150}, scale=${2:1.5}, size=[${3:5,5}])
+]]></content>
+    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+    <tabTrigger>np_rd_create_float_normal</tabTrigger>
+    <!-- Optional: Set a scope to limit where the snippet will trigger -->
+    <scope>source.python</scope>
+</snippet>

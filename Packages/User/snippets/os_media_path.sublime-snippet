@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+os.path.join(os.getcwd(), ${1:'media'}, ${2:'fileName.html'})
+]]></content>
+    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+<tabTrigger>os_media_path</tabTrigger>
+    <!-- Optional: Set a scope to limit where the snippet will trigger -->
+<scope>source.python</scope>
+</snippet>

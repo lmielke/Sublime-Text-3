@@ -1,0 +1,10 @@
+<snippet>
+    <content><![CDATA[
+pd.ExcelFile(${1:fname})
+df = pd.concat((xl.parse(sh) for sh in ${3:xl.sheet_names}), ignore_index=True, sort=False)
+]]></content>
+    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+    <tabTrigger>pd_io_xls_load_single_OR_multip</tabTrigger>
+    <!-- Optional: Set a scope to limit where the snippet will trigger -->
+    <scope>source.python</scope>
+</snippet>

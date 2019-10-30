@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+with open(${1:"payload.pickle"}, "wb") as f: pickle.dump(${2:payload}, f, pickle.HIGHEST_PROTOCOL)
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>py_io_pickle_save</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>source.python</scope>
+</snippet>

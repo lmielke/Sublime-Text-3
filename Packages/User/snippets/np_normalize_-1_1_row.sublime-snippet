@@ -1,0 +1,19 @@
+<snippet>
+	<content><![CDATA[
+import numpy as np
+"""
+	normalize numpy array zero centered between -1 and 1
+	axis = 1, normalization is done row by row
+"""
+${1:A} = np.array([[1,2,3,4], [23, 19, 49, 59], [9,4,1,1]])
+${2:B} = ${1:A} / np.linalg.norm(${1:A}, ord=2, axis=1, keepdims=True)
+${2:B} = ${2:B} - np.mean(${2:B}, axis=0)
+print(${1:A})
+print(${2:B})
+
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>np_normalize_-1_1_row</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>source.python</scope>
+</snippet>

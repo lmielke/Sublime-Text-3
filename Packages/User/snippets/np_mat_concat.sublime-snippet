@@ -1,0 +1,18 @@
+<snippet>
+	<content><![CDATA[
+import numpy as np
+"""	appends a d2 array to a 3d array
+	end dimansions have to be equal in order to allow concat
+	rehape is needed because append returns a flat array
+"""
+matrix = np.arange(32).reshape(2, 4, 4)
+array = np.arange(16).reshape(4, 4)
+
+new_array = np.append(${1:matrix}, ${2:array}).reshape(matrix.shape[0]+1, *matrix.shape[1:])
+print(new_array)
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>np_mat_concat</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>source.python</scope> -->
+</snippet>

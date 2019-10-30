@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+np.random.randint(low=${1:1}, high=${2:9}, size=${3:[8, 6]}) #size can also be = int
+]]></content>
+    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+    <tabTrigger>np_randint</tabTrigger>
+    <!-- Optional: Set a scope to limit where the snippet will trigger -->
+    <scope>source.python</scope>
+</snippet>

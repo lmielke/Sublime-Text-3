@@ -1,0 +1,74 @@
+<snippet>
+    <content><![CDATA[
+
+from django.db import models
+from django.utils import timezone
+from django.contrib.auth.models import User
+from django.db.models.signals import post_save
+from django.urls import reverse
+from PIL import Image
+
+"""
+    Simple model to allow saving data to a db. Model requires to be imported
+    to other models such as admin.py and models.py i.e.
+    admin.py: from .models import Profile, admin.site.register(Profile)
+    settings.py: 'Profile.apps.ProfileConfig', # also see apps.py
+"""
+class Profile(models.Model):
+    """
+        Definition of model fields
+            Extends:
+                models.Model
+    """
+    
+    user = models.OneToOneField(User, on_delete=models.CASCADE) # or models.PROTECT 
+    peopImage = models.ImageField(default='faceDefault.jpg', 
+                                upload_to='profile_pics',
+                                verbose_name='Formate: jpg, gif, bmp')
+    position = models.CharField(max_length=20, 
+                                choices=(('Boss', 'Boss'),
+                                            ('Slave', 'Slave'),))
+    wwwAddress = models.CharField(max_length=100, default='0')
+    comment = models.TextField(max_length=800)
+    createDate = models.DateTimeField(auto_now_add=True)
+    changeDate = models.DateTimeField(auto_now=True)
+
+
+    def __str__(self):
+        return self.eMail
+
+
+    def save(self, force_insert=False, force_update=False, using=None):
+        """
+            Post saves image after modifying it in pil
+            image is saved, then reloaded and processed         
+        """
+        super().save()
+        img = Image.open(self.peopImage.path)
+        img.thumbnail((294.0, 267.0))
+        img.save(self.peopImage.path)
+
+    class Meta:
+        pass
+
+
+def get_pk(sender, **kwargs):
+    """
+        gets the pk of a newly created object, this can be used, to 
+        display the save result to the user along with other data
+    """
+    if kwargs['created']:
+        SignUp.signup_pk = kwargs.get('instance', '0')
+        if not SignUp.signup_pk == str():
+            SignUp.signup_pk = SignUp.signup_pk.pk
+    else:
+        SignUp.signup_pk = '0'
+    return SignUp.signup_pk
+
+post_save.connect(get_pk, sender=SignUp)
+]]></content>
+    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+    <tabTrigger>dj_model_create_basic</tabTrigger>
+    <!-- Optional: Set a scope to limit where the snippet will trigger -->
+    <scope>source.python</scope>
+</snippet>

@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+df.rename({${1:'A'}: ${2:'New'}, ${3:'B'}: ${4:'Name'}}, axis=${5:'columns'})
+]]></content>
+    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+    <tabTrigger>pd_df_rename_selective_cols</tabTrigger>
+    <!-- Optional: Set a scope to limit where the snippet will trigger -->
+    <scope>source.python</scope>
+</snippet>

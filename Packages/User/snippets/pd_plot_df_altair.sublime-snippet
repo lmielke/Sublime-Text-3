@@ -1,0 +1,11 @@
+<snippet>
+	<content><![CDATA[
+"""displays a pd.DataFrame with interactive extention"""
+chart = alt.Chart(${1:df}).mark_point().encode(x='Value', y='Account',).interactive()
+chart.save(${2:'chart.html'})
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>pd_plot_df_altair</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>source.python</scope>
+</snippet>

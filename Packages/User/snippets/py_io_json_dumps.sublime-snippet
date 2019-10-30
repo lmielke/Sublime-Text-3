@@ -1,0 +1,11 @@
+<snippet>
+	<content><![CDATA[
+with open(target_file, 'w+') as f:
+    json.dump(json.dumps(to_write_string, ensure_ascii=False), f)
+]]>
+	</content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>py_io_json_dumps</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>source.python</scope>
+</snippet>

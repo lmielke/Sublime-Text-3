@@ -1,0 +1,8 @@
+{
+    "cmd": ["C:\\Users\\Lars\\.virtualenvs\\102_chess_game-ypTdyJ5_\\Scripts\\python.exe", 
+            "$file", 
+            "102_chess_game", 
+            "http://localhost:8000",],
+    "selector": "source.python",
+    "file_regex": "^\\s*File \"(...*?)\", line ([0-9]*)"
+}

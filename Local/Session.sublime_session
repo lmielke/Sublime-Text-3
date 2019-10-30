@@ -1,0 +1,2537 @@
+{
+	"folder_history":
+	[
+		"/C/python_venvs/102_chess_game",
+		"/C/python_venvs/99_snipp_block",
+		"/C/Users/Lars/OneDrive/Dokumente/25_Work/2510_Python",
+		"/C/python_venvs/01_presentations",
+		"/C/Users/Lars/OneDrive/Dokumente/25_Work/2510_Python/251010_my_classes"
+	],
+	"last_version": 3211,
+	"last_window_id": 33,
+	"log_indexing": false,
+	"settings":
+	{
+		"new_window_height": 480.0,
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"np_",
+						"np_normalize_-1_1_row\tnp_normalize_-1_1_row"
+					],
+					[
+						"np_con",
+						"np_concat_tile_3d\tnp_concat_tile_3d"
+					],
+					[
+						"py_io",
+						"py_io_json_loads\tpy_io_json_loads"
+					],
+					[
+						"py_",
+						"py_io_json_loads\tpy_io_json_loads"
+					],
+					[
+						"102",
+						"102_chess_game"
+					],
+					[
+						"clone",
+						"cloneProjectUrl"
+					],
+					[
+						"cloneP",
+						"cloneProjectPath"
+					],
+					[
+						"onbe",
+						"onbeforeunload〔function〕"
+					],
+					[
+						"par",
+						"parentNode"
+					],
+					[
+						"activ",
+						"activePlayer"
+					],
+					[
+						"moveFi",
+						"moveFigureParent〔variable〕"
+					],
+					[
+						"movefig",
+						"moveFigureParent〔variable〕"
+					],
+					[
+						"che",
+						"checkBox1〔variable〕"
+					],
+					[
+						"nonze",
+						"nonzeroIndexs"
+					],
+					[
+						"non",
+						"nonzeroIndexs"
+					],
+					[
+						"acti",
+						"activePlayer"
+					],
+					[
+						"os_",
+						"os_replace_last_elem_with_fname\tos_replace_last_elem_with_fname"
+					],
+					[
+						"padding-",
+						"padding-left: 〔property〕"
+					],
+					[
+						"pd_",
+						"pd_df_move_col_to_front\tpd_df_move_col_to_front"
+					],
+					[
+						"board",
+						"boardSaves"
+					],
+					[
+						"sub",
+						"subn〔function〕"
+					],
+					[
+						"removed",
+						"removedirs〔function〕"
+					],
+					[
+						"remo",
+						"removedirs〔function〕"
+					],
+					[
+						"make",
+						"makedirs〔function〕"
+					],
+					[
+						"if",
+						"ifmain\tif __name__ == '__main__'"
+					],
+					[
+						"activate",
+						"activate_this.py"
+					],
+					[
+						"pd_io_loa",
+						"pd_io_xls_load_single_OR_multip\tpd_io_xls_load_single_OR_multip"
+					],
+					[
+						"pd_io",
+						"pd_io_html_load_modify\tpd_io_html_load_modify"
+					],
+					[
+						"mo",
+						"monthrange〔function〕"
+					],
+					[
+						"pd_io_",
+						"pd_io_json_loads\tpd_io_json_loads."
+					],
+					[
+						"np_r",
+						"np_random_float_normal\tnp_random_float_normal"
+					],
+					[
+						"py_su",
+						"py_subprocess_launch_app_in_venv\tpy_subprocess_launch_app_in_venv"
+					],
+					[
+						"boar",
+						"boardState"
+					],
+					[
+						"fli",
+						"flip_board"
+					],
+					[
+						"pawn",
+						"pawnStart"
+					],
+					[
+						"re",
+						"re_datetime_snippet\tre_datetime_str"
+					],
+					[
+						"bo",
+						"boardState\tstatement"
+					],
+					[
+						"combinat",
+						"combinations_with_replacement\tfunction"
+					],
+					[
+						"combinatio",
+						"combinations_with_replacement〔class〕"
+					],
+					[
+						"travers",
+						"traversal\tstatement"
+					],
+					[
+						"tra",
+						"traversal"
+					],
+					[
+						"traver",
+						"traversal_type"
+					],
+					[
+						"sucess",
+						"success_url\tstatement"
+					],
+					[
+						"SignUpC",
+						"SignUpCreateView"
+					],
+					[
+						"SEC",
+						"SECRET_KEY"
+					],
+					[
+						"para",
+						"para_dict"
+					],
+					[
+						"grid-au",
+						"grid-auto-rows\tproperty"
+					],
+					[
+						"in_con",
+						"in_container_loc"
+					],
+					[
+						"is",
+						"is_authenticated"
+					],
+					[
+						"url",
+						"url_is_exempt"
+					],
+					[
+						"Url",
+						"url_is_exempt"
+					],
+					[
+						"L",
+						"LOGIN_EXEMPT_URLS"
+					],
+					[
+						"PRODU",
+						"PRODUCTION_IP"
+					],
+					[
+						"dtst",
+						"dtstr_day"
+					],
+					[
+						"in_obj",
+						"in_obj_db_loc"
+					],
+					[
+						"do_trans",
+						"do_transport_remote_file"
+					],
+					[
+						"pro",
+						"PRODUCTION_IP"
+					],
+					[
+						"PRO",
+						"PRODUCTION_IP"
+					],
+					[
+						"get_o",
+						"get_object_or_404"
+					],
+					[
+						"User",
+						"UserUpdateForm"
+					],
+					[
+						"Us",
+						"UserCreationForm"
+					],
+					[
+						"my_r",
+						"my_range_h"
+					],
+					[
+						"my",
+						"my_range_l"
+					],
+					[
+						"in_src",
+						"in_srcyear"
+					],
+					[
+						"in_attachment",
+						"in_attachment_name"
+					],
+					[
+						"exter",
+						"extracted_bos"
+					],
+					[
+						"extra",
+						"extracted_text"
+					],
+					[
+						"mail_",
+						"mail_number"
+					],
+					[
+						"do_get_",
+						"do_get_mails_contents"
+					],
+					[
+						"f",
+						"f"
+					],
+					[
+						"pop",
+						"pop_word"
+					],
+					[
+						"uniq",
+						"unique_words"
+					],
+					[
+						"tmp_in",
+						"tmp_in_cum_stats_1"
+					],
+					[
+						"new_",
+						"new_word_stats"
+					],
+					[
+						"nw",
+						"new_word_stats"
+					],
+					[
+						"in_comple",
+						"in_completion_datetime"
+					],
+					[
+						"ob",
+						"object_list"
+					],
+					[
+						"desc",
+						"describe_list"
+					],
+					[
+						"pattern",
+						"file_name_pattern"
+					],
+					[
+						"channel",
+						"channel_data"
+					],
+					[
+						"tmp_",
+						"tmp_in_cls_body"
+					],
+					[
+						"do_wr",
+						"do_write_inst"
+					],
+					[
+						"process",
+						"process_id"
+					],
+					[
+						"in_out",
+						"in_output_style"
+					],
+					[
+						"in_outp",
+						"in_output_style_pattern"
+					],
+					[
+						"cl_pa",
+						"cl_params_loc"
+					],
+					[
+						"in_topics",
+						"in_topics_terms"
+					],
+					[
+						"in_pars",
+						"in_parse_result"
+					],
+					[
+						"cl_p",
+						"cl_params_ext"
+					],
+					[
+						"cl",
+						"cl_params_loc"
+					],
+					[
+						"cl_para",
+						"cl_params_loc"
+					],
+					[
+						"cl_",
+						"cl_params_ext"
+					],
+					[
+						"cl_par",
+						"cl_params_ext"
+					],
+					[
+						"clobj",
+						"clobject_location"
+					],
+					[
+						"page",
+						"page_title"
+					],
+					[
+						"clob",
+						"clobject_location"
+					],
+					[
+						"border_",
+						"border_bottom"
+					],
+					[
+						"get",
+						"get_legal_moves"
+					],
+					[
+						"twin",
+						"twin_values_temp"
+					],
+					[
+						"di",
+						"diagonal_unitsa"
+					],
+					[
+						"diago",
+						"diagonal_unitsd"
+					],
+					[
+						"w_hl",
+						"w_hlayer_drop"
+					],
+					[
+						"train",
+						"train_rec_count"
+					],
+					[
+						"test",
+						"test_rec_count"
+					],
+					[
+						"review",
+						"reviews_test"
+					],
+					[
+						"ab",
+						"absolute_correct"
+					],
+					[
+						"abs",
+						"absolute_false"
+					],
+					[
+						"rew",
+						"reviews_test"
+					],
+					[
+						"w_c",
+						"w_cnt_1"
+					],
+					[
+						"revie",
+						"reviews_test"
+					],
+					[
+						"nr",
+						"nr_ol"
+					],
+					[
+						"outp",
+						"output_error_term"
+					],
+					[
+						"hid",
+						"hidden_error_term"
+					],
+					[
+						"hi",
+						"hidden_layer_in"
+					],
+					[
+						"output",
+						"output_layer_in"
+					],
+					[
+						"learn",
+						"learnrate"
+					],
+					[
+						"ta",
+						"targets_test"
+					],
+					[
+						"b_",
+						"b_gradient"
+					],
+					[
+						"num",
+						"num_iterations"
+					],
+					[
+						"lear",
+						"learning_rate"
+					],
+					[
+						"m",
+						"m"
+					],
+					[
+						"la",
+						"laos_life_exp"
+					],
+					[
+						"b",
+						"bmi_life_model"
+					],
+					[
+						"article",
+						"article_chain"
+					],
+					[
+						"arti",
+						"article_chain"
+					],
+					[
+						"fi",
+						"first_relative_link"
+					],
+					[
+						"mat",
+						"matrix1"
+					]
+				]
+			},
+			"build_system_choices":
+			[
+				[
+					[
+						[
+							"Packages/Python/Python.sublime-build",
+							""
+						],
+						[
+							"Packages/Python/Python.sublime-build",
+							"Syntax Check"
+						]
+					],
+					[
+						"Packages/Python/Python.sublime-build",
+						""
+					]
+				]
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"inst",
+						"Package Control: Install Package"
+					],
+					[
+						"list",
+						"Package Control: List Packages"
+					],
+					[
+						"ma",
+						"Material Theme: Advanced configuration"
+					],
+					[
+						"Package Control: li",
+						"Package Control: List Packages"
+					],
+					[
+						"mat",
+						"Material Theme: Advanced configuration"
+					],
+					[
+						"insta",
+						"Package Control: Install Package"
+					],
+					[
+						"packag",
+						"Install Package Control"
+					],
+					[
+						"",
+						"About"
+					],
+					[
+						"emo",
+						"Emoji: Insert Emoji"
+					],
+					[
+						"in",
+						"Package Control: Install Package"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"Package Control: install",
+						"Package Control: Install Package"
+					],
+					[
+						"Package Control: ",
+						"Package Control: Enable Package"
+					],
+					[
+						"Package Control: ins",
+						"Package Control: Install Package"
+					],
+					[
+						"Package Control: inst",
+						"Package Control: Install Package"
+					],
+					[
+						"INST",
+						"Package Control: Install Package"
+					],
+					[
+						"instal",
+						"Package Control: Install Package"
+					]
+				],
+				"width": 0.0
+			},
+			"console":
+			{
+				"height": 232.0,
+				"history":
+				[
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/C/python_venvs/102_chess_game/web_project/web_project/helper.py",
+				"/C/python_venvs/102_chess_game/web_project/blog/templates/blog/components/i_navbar_top.html",
+				"/C/python_venvs/102_chess_game/web_project/web_project/settings.py",
+				"/C/Users/Lars/OneDrive/Dokumente/25_Work/2510_Python/pipenv_setup.py",
+				"/C/Users/Lars/OneDrive/Dokumente/25_Work/2510_Python/setpip.py",
+				"/C/Users/Lars/AppData/Roaming/Sublime Text 3/Packages/User/102_chess_game.sublime-build",
+				"/C/Users/Lars/AppData/Roaming/Sublime Text 3/Packages/User/101_django_template.sublime-build",
+				"/C/python_venvs/102_chess_game/test.py",
+				"/C/Users/Lars/AppData/Roaming/Sublime Text 3/Packages/User/102_django_template.sublime-build",
+				"/C/python_venvs/99_snipp_block/tf_sequential_nn.py",
+				"/C/python_venvs/99_snipp_block/py_multiprocessing_pool.py",
+				"/C/Users/Lars/AppData/Roaming/Sublime Text 3/Packages/User/snippets/pd_io_json_loads..sublime-snippet",
+				"/C/Users/Lars/AppData/Roaming/Sublime Text 3/Packages/User/snippets/py_io_json_dumps.sublime-snippet",
+				"/C/Users/Lars/AppData/Roaming/Sublime Text 3/Packages/User/snippets/py_io_json_loads.sublime-snippet",
+				"/C/python_venvs/102_chess_game/pipenv_setup.py",
+				"/C/python_venvs/my_cmds.bat",
+				"/C/python_venvs/102_chess_game/.env",
+				"/C/Users/Lars/OneDrive/Dokumente/25_Work/2510_Python/db777e5f-ec42-4524-a755-6965ca044393.dmp",
+				"/C/python_venvs/pipenv_setup.py",
+				"/C/python_venvs/102_chess_game/readme_setup.py",
+				"/C/python_venvs/122_chess_play/web_project/chess/test.py",
+				"/C/python_venvs/122_chess_play/web_project/chess/static/drag_and_drop.js",
+				"/C/python_venvs/122_chess_play/web_project/web_project/settings.py",
+				"/C/python_venvs/122_chess_play/web_project/chess/urls.py",
+				"/C/python_venvs/122_chess_play/web_project/web_project/my_stuff.py",
+				"/C/python_venvs/setenv.py",
+				"/C/python_venvs/setgit.py",
+				"/C/python_venvs/102_chess_game/README.md",
+				"/C/python_venvs/345_test/False.env",
+				"/C/python_venvs/345_test/web_project/manage.py",
+				"/C/python_venvs/345_test/.env",
+				"/C/python_venvs/102_chess_game/adhogtest.py",
+				"/C/Users/Lars/OneDrive/Dokumente/25_Work/2510_Python/setenv.py",
+				"/C/python_venvs/345_test/Pipfile",
+				"/C/python_venvs/345_test/Pipfile.lock",
+				"/C/Users/Lars/OneDrive/Dokumente/25_Work/2560_software/environments_pip/09_django_web_project/web_project/web_project/settings.py",
+				"/C/Users/Lars/OneDrive/Dokumente/70 Web/7090_Transport/122_chess_play/2019-10-15-12-37-28-459218_122_chess_play_init/web_project/web_project/my_stuff.py",
+				"/C/Users/Lars/OneDrive/Dokumente/70 Web/7090_Transport/122_chess_play/2019-10-15-12-37-28-459218_122_chess_play_init/web_project/web_project/settings.py",
+				"/C/python_venvs/122_chess_play/web_project/web_project/mystuff.py",
+				"/C/python_venvs/22_chess_play/code/Game/settings.py",
+				"/C/Users/Lars/OneDrive/Dokumente/70 Web/7090_Transport/122_chess_play/2019-10-15-10-02-20-741158_122_chess_play_init/web_project/web_project/settings.py",
+				"/C/Users/Lars/OneDrive/Dokumente/70 Web/7090_Transport/122_chess_play/2019-10-14-15-14-48-851342_122_chess_play_init/web_project/web_project/settings.py",
+				"/C/python_venvs/999_alice_admin/www_admin/launch_template.pyw",
+				"/C/Users/Lars/OneDrive/Dokumente/25_Work/2510_Python/mkdjangoenv.py",
+				"/C/python_venvs/999_alice_admin/www_admin/call_alice.py",
+				"/C/python_venvs/122_chess_play/launch_template.pyw",
+				"/C/python_venvs/22_chess_play/launch_template.pyw",
+				"/C/python_venvs/122_chess_play/Scripts/activate_this.py",
+				"/C/python_venvs/122_chess_play/web_project/blog/templates/blog/components/i_css_scripts_foot.html",
+				"/C/python_venvs/122_chess_play/web_project/chess/templates/chess/v_chess_detail.html",
+				"/C/python_venvs/122_chess_play/web_project/chess/models.py",
+				"/C/python_venvs/122_chess_play/web_project/chess/views.py",
+				"/C/python_venvs/122_chess_play/web_project/blog/templates/blog/components/i_css_scripts_head.html",
+				"/C/python_venvs/122_chess_play/web_project/blog/templates/blog/base.html",
+				"/C/python_venvs/122_chess_play/web_project/chess/templates/chess/base.html",
+				"/C/python_venvs/122_chess_play/web_project/web_project/urls.py",
+				"/C/python_venvs/22_chess_play/code/chess/Board.py",
+				"/C/Users/Lars/OneDrive/Dokumente/25_Work/2510_Python/setdjango.py",
+				"/C/python_venvs/99_snipp_block/subprocess_kill_prc_pid.py",
+				"/C/Users/Lars/OneDrive/Dokumente/70 Web/www_admin/launch_template.pyw",
+				"/C/python_venvs/Taskkill",
+				"/C/python_venvs/01_django_template/launch_template.pyw",
+				"/C/Users/Lars/OneDrive/Dokumente/25_Work/2510_Python/Player.py",
+				"/C/python_venvs/22_chess_play/code/chess/Player.py",
+				"/C/python_venvs/22_chess_play/code/chess/urls.py",
+				"/C/python_venvs/22_chess_play/code/chess/serializers.py",
+				"/C/python_venvs/22_chess_play/code/chess/static/resources.js",
+				"/E/22_chess/code2/chess/templates/chess/v_chess_detail.html",
+				"/C/Users/Lars/OneDrive/Dokumente/70 Web/web_project/blog/templates/articles/v_article_detail.html",
+				"/C/Users/Lars/OneDrive/Dokumente/70 Web/web_project/blog/templates/articles/v_articles.html",
+				"/C/python_venvs/22_chess_play/code/chess/templates/chess/i_css_scripts_head.html",
+				"/C/python_venvs/22_chess_play/code/chess/static/drag_and_drop.js",
+				"/C/python_venvs/22_chess_play/code/chess/templates/chess/base.html",
+				"/C/Users/Lars/OneDrive/Dokumente/70 Web/web_project/signups/urls.py",
+				"/C/Users/Lars/OneDrive/Dokumente/70 Web/web_project/web_project/helper.py",
+				"/C/Users/Lars/OneDrive/Dokumente/70 Web/web_project/signups/models.py",
+				"/C/Users/Lars/OneDrive/Dokumente/70 Web/web_project/signups/forms.py",
+				"/C/Users/Lars/OneDrive/Dokumente/70 Web/web_project/signups/views.py",
+				"/C/Users/Lars/OneDrive/Dokumente/70 Web/web_project/signups/templates/signups/v_signup_form.html",
+				"/C/Users/Lars/OneDrive/Dokumente/70 Web/web_project/blog/urls.py",
+				"/C/Users/Lars/OneDrive/Dokumente/70 Web/web_project/blog/forms.py",
+				"/C/Users/Lars/OneDrive/Dokumente/70 Web/web_project/blog/views_posts.py",
+				"/C/Users/Lars/OneDrive/Dokumente/70 Web/web_project/blog/templates/blog/v_post_form.html",
+				"/C/Users/Lars/OneDrive/Dokumente/70 Web/web_project/blog/templates/blog/components/i_css_scripts_head.html",
+				"/C/Users/Lars/OneDrive/Dokumente/70 Web/web_project/web_project/settings.py",
+				"/C/Users/Lars/OneDrive/Dokumente/70 Web/web_project/blog/templates/blog/v_post_detail.html",
+				"/C/Users/Lars/OneDrive/Dokumente/25_Work/2510_Python/testfiles/breadth_first_searches.py",
+				"/C/Users/Lars/OneDrive/Dokumente/75 Alice/751000_Alice 2019-05-23 00-38-56-012337/all_classes/H_File.py",
+				"/C/Users/Lars/OneDrive/Dokumente/70 Web/www_admin/appadmin/admin.py",
+				"/C/python_venvs/99_snipp_block/dj_models.py",
+				"/C/python_venvs/22_chess_play/code/chess/test.js",
+				"/C/python_venvs/22_chess_play/code/chess/test.py",
+				"/C/python_venvs/22_chess_play/code/Game/urls.py",
+				"/C/python_venvs/22_chess_play/code/chess/templates/chess/v_chess_detail.html",
+				"/C/python_venvs/22_chess_play/code/static/chess/chess_styles.css",
+				"/C/python_venvs/22_chess_play/code/Figure.py",
+				"/C/python_venvs/22_chess_play/code/Board.py",
+				"/C/python_venvs/22_chess_play/code/Player.py",
+				"/C/python_venvs/22_chess_play/code/chess/templates/chess/drag.js",
+				"/C/Users/Lars/AppData/Roaming/Sublime Text 3/Packages/User/snippets/tf_model_predict_argmax.sublime-snippet",
+				"/C/Users/Lars/AppData/Roaming/Sublime Text 3/Packages/User/snippets/time_perf_counter.sublime-snippet",
+				"/C/Users/Lars/AppData/Roaming/Sublime Text 3/Packages/User/22_chess_play.sublime-build",
+				"/C/Users/Lars/OneDrive/Dokumente/25_Work/2560_software/environments_pip/22_chess/temp.txt",
+				"/C/Users/Lars/OneDrive/Dokumente/25_Work/2510_Python/testfiles/threading_example.py",
+				"/C/python_venvs/21_chess/code/mytest.py",
+				"/C/python_venvs/21_chess/code/Network2.py",
+				"/C/python_venvs/21_chess/code/NNSimulate.py",
+				"/C/Users/Lars/OneDrive/Dokumente/25_Work/2510_Python/mkenv.py",
+				"/C/Users/Lars/AppData/Roaming/Sublime Text 3/Packages/User/snippets/pd_df_filter_rows_by_value.sublime-snippet",
+				"/C/Users/Lars/AppData/Roaming/Sublime Text 3/Packages/User/snippets/pd_df_rename_selective_cols.sublime-snippet",
+				"/C/Users/Lars/AppData/Roaming/Sublime Text 3/Packages/User/snippets/pd_df_rename_all_columns.sublime-snippet",
+				"/C/python_venvs/21_chess/logs/2019-09-09-17-28-40-976278/train/events.out.tfevents.1568042921.BLUE-MOON.12592.262825.v2",
+				"/C/Users/Lars/AppData/Roaming/Sublime Text 3/Packages/User/snippets/pd_io_xls_load_single_OR_multip.sublime-snippet",
+				"/C/Users/Lars/AppData/Roaming/Sublime Text 3/Packages/User/snippets/plt_io_bokeh_submit_form.sublime-snippet",
+				"/C/Users/Lars/AppData/Roaming/Sublime Text 3/Packages/User/03_tensorflow_gpu.sublime-build",
+				"/C/python_venvs/99_snipp_block/subprocess_call_cmd_sequence.py",
+				"/C/python_venvs/99_snipp_block/pd_DF_datetime_calendar_index_loan_payment_example.py",
+				"/C/Users/Lars/AppData/Roaming/Sublime Text 3/Packages/User/snippets/subprocess_call_sequence.sublime-snippet",
+				"/C/Users/Lars/AppData/Roaming/Sublime Text 3/Packages/User/snippets/re_sub.sublime-snippet",
+				"/C/Users/Lars/AppData/Roaming/Sublime Text 3/Packages/User/snippets/py_setattr_mult_values.sublime-snippet",
+				"/C/Users/Lars/AppData/Roaming/Sublime Text 3/Packages/User/snippets/py_io_pickle_save.sublime-snippet",
+				"/C/Users/Lars/AppData/Roaming/Sublime Text 3/Packages/User/snippets/py_io_pickle_load.sublime-snippet",
+				"/C/Users/Lars/AppData/Roaming/Sublime Text 3/Packages/User/snippets/plt_pd_df_plot_df_altair.sublime-snippet",
+				"/C/python_venvs/99_snipp_block/plt_chart_Altair_from_random_Df.py",
+				"/C/Users/Lars/AppData/Roaming/Sublime Text 3/Packages/User/snippets/os_media_path.sublime-snippet",
+				"/C/Users/Lars/OneDrive/Dokumente/25_Work/2510_Python/setcmd.py",
+				"/C/python_venvs/99_snipp_block/plt_chart_Altair_from_Df.py",
+				"/C/Users/Lars/AppData/Roaming/Sublime Text 3/Packages/User/snippets/dt_str_to_fileName_snippet.sublime-snippet"
+			],
+			"find":
+			{
+				"height": 70.2857142857
+			},
+			"find_in_files":
+			{
+				"height": 158.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"Play hard",
+					"102_django_template",
+					"\\\\",
+					"py_io_json_dumps",
+					"cloneProjectName",
+					"jpn",
+					"readme_setup",
+					"url",
+					"newEnvActPy",
+					"newEnv",
+					"yourProjectPath",
+					"cloneProjectName",
+					"cloneProjectUrl",
+					"cloneProjectPath",
+					"install",
+					"djProjectPath",
+					"venvsPath",
+					"myStuffPath",
+					"parser.parse_args",
+					"PID",
+					"pid",
+					"djProjectPaht",
+					"venvsPath",
+					"cloneProjectPath",
+					"cloneProjectName",
+					"yourProjectName",
+					"cloneProjectName",
+					"yourProjectName",
+					"cloneProjectName",
+					"yourHost",
+					"django",
+					"socket",
+					"EMAIL_HOST_PASSWORD",
+					"domain",
+					"error loading board",
+					"pk",
+					"restUrl",
+					"resturl",
+					"local",
+					"newEnvCode",
+					"newProdParams",
+					"templateCode",
+					"web_project",
+					"\\",
+					"_django_project",
+					"code",
+					"22_chess_play",
+					"code",
+					"22_chess_play",
+					"code",
+					"\\",
+					"22_chess_play",
+					"Taskkill",
+					"object",
+					"reload",
+					"start_game",
+					"self.model",
+					"self.modelPath",
+					"modelLocation",
+					"perfect",
+					"LoginRequiredMixin",
+					"ChessMainView",
+					"media",
+					"122_chess",
+					"22_chess",
+					"'chPid': CHPID,",
+					"theme",
+					"pd",
+					"chess/base",
+					"media",
+					"CHPID",
+					"createsuperuser",
+					"migrate",
+					"makemigrations",
+					"projectName",
+					"startproject",
+					"name",
+					"shutil",
+					"installPath",
+					"True",
+					"\\",
+					"22_chess_play",
+					"boardStatetate",
+					"boardState",
+					"boardText",
+					"outer_board",
+					"request",
+					"os.getpid()",
+					"theUrl",
+					"HttpResponseRedirect",
+					"pk",
+					"Game",
+					"pk",
+					"ChessInitView",
+					"ChessMainView",
+					"pid",
+					"'pid':",
+					"pid",
+					"os.getpid",
+					"pid()",
+					"01_django_template",
+					"copy",
+					"maximize",
+					"boardState",
+					"boardOutState",
+					"flip",
+					"boardSaves",
+					"save_",
+					"playerColor",
+					"set_figure",
+					"value",
+					"threats",
+					"opponentKing",
+					"self.w",
+					"knightMoved",
+					"kingMoved",
+					"opponentKing",
+					"allMoves",
+					"console.log",
+					"print",
+					"['K'][0]",
+					"]['",
+					"['K'][0]",
+					"['R1'][0]",
+					"['R2'][0]",
+					"abs(",
+					"print(stepCount,",
+					"restData.boardText"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": true,
+				"replace_history":
+				[
+					"\""
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 24.0
+			},
+			"input":
+			{
+				"height": 69.0
+			},
+			"menu_visible": true,
+			"output.exec":
+			{
+				"height": 252.0
+			},
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"output.mdpopups":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "Packages/User/102_chess_game.sublime-build",
+			"replace":
+			{
+				"height": 44.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"py_mul",
+						"99_snipp_block\\py_multiprocessing_pool.py"
+					],
+					[
+						"dj",
+						"99_snipp_block\\dj_models.py"
+					],
+					[
+						"dj_mo",
+						"99_snipp_block\\dj_models.py"
+					],
+					[
+						"tes",
+						"22_chess_play\\code\\test.py"
+					],
+					[
+						"mult",
+						"99_snipp_block\\py_multiprocessing_pool.py"
+					],
+					[
+						"pd",
+						"99_snipp_block\\pd_DF_datetime_calendar_index_loan_payment_example.py"
+					],
+					[
+						"tim",
+						"99_snipp_block\\pd_DF_datetime_calendar_index_loan_payment_example.py"
+					],
+					[
+						"alt",
+						"99_snipp_block\\plt_chart_Altair_from_random_Df.py"
+					],
+					[
+						"plt",
+						"99_snipp_block\\plt_chart_Altair_from_random_Df.py"
+					],
+					[
+						"test",
+						"test.py"
+					],
+					[
+						"char",
+						"C:\\python_venvs\\99_snipp_block\\Chart_plot_Altair_from_Df.py"
+					],
+					[
+						"te",
+						"test.py"
+					],
+					[
+						"fi",
+						"Figure.py"
+					],
+					[
+						"comp",
+						"scipy_compare_two_functions.py"
+					],
+					[
+						"",
+						"web_project\\settings.py"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": false,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 278.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+				"max_columns": 3
+			}
+		},
+		"new_window_width": 638.285714286
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"np_",
+						"np_normalize_-1_1_row\tnp_normalize_-1_1_row"
+					],
+					[
+						"np_con",
+						"np_concat_tile_3d\tnp_concat_tile_3d"
+					],
+					[
+						"py_io",
+						"py_io_json_loads\tpy_io_json_loads"
+					],
+					[
+						"py_",
+						"py_io_json_loads\tpy_io_json_loads"
+					],
+					[
+						"102",
+						"102_chess_game"
+					],
+					[
+						"clone",
+						"cloneProjectUrl"
+					],
+					[
+						"cloneP",
+						"cloneProjectPath"
+					],
+					[
+						"onbe",
+						"onbeforeunload〔function〕"
+					],
+					[
+						"par",
+						"parentNode"
+					],
+					[
+						"activ",
+						"activePlayer"
+					],
+					[
+						"moveFi",
+						"moveFigureParent〔variable〕"
+					],
+					[
+						"movefig",
+						"moveFigureParent〔variable〕"
+					],
+					[
+						"che",
+						"checkBox1〔variable〕"
+					],
+					[
+						"nonze",
+						"nonzeroIndexs"
+					],
+					[
+						"non",
+						"nonzeroIndexs"
+					],
+					[
+						"acti",
+						"activePlayer"
+					],
+					[
+						"os_",
+						"os_replace_last_elem_with_fname\tos_replace_last_elem_with_fname"
+					],
+					[
+						"padding-",
+						"padding-left: 〔property〕"
+					],
+					[
+						"pd_",
+						"pd_df_move_col_to_front\tpd_df_move_col_to_front"
+					],
+					[
+						"board",
+						"boardSaves"
+					],
+					[
+						"sub",
+						"subn〔function〕"
+					],
+					[
+						"removed",
+						"removedirs〔function〕"
+					],
+					[
+						"remo",
+						"removedirs〔function〕"
+					],
+					[
+						"make",
+						"makedirs〔function〕"
+					],
+					[
+						"if",
+						"ifmain\tif __name__ == '__main__'"
+					],
+					[
+						"activate",
+						"activate_this.py"
+					],
+					[
+						"pd_io_loa",
+						"pd_io_xls_load_single_OR_multip\tpd_io_xls_load_single_OR_multip"
+					],
+					[
+						"pd_io",
+						"pd_io_html_load_modify\tpd_io_html_load_modify"
+					],
+					[
+						"mo",
+						"monthrange〔function〕"
+					],
+					[
+						"pd_io_",
+						"pd_io_json_loads\tpd_io_json_loads."
+					],
+					[
+						"np_r",
+						"np_random_float_normal\tnp_random_float_normal"
+					],
+					[
+						"py_su",
+						"py_subprocess_launch_app_in_venv\tpy_subprocess_launch_app_in_venv"
+					],
+					[
+						"boar",
+						"boardState"
+					],
+					[
+						"fli",
+						"flip_board"
+					],
+					[
+						"pawn",
+						"pawnStart"
+					],
+					[
+						"re",
+						"re_datetime_snippet\tre_datetime_str"
+					],
+					[
+						"bo",
+						"boardState\tstatement"
+					],
+					[
+						"combinat",
+						"combinations_with_replacement\tfunction"
+					],
+					[
+						"combinatio",
+						"combinations_with_replacement〔class〕"
+					],
+					[
+						"travers",
+						"traversal\tstatement"
+					],
+					[
+						"tra",
+						"traversal"
+					],
+					[
+						"traver",
+						"traversal_type"
+					],
+					[
+						"sucess",
+						"success_url\tstatement"
+					],
+					[
+						"SignUpC",
+						"SignUpCreateView"
+					],
+					[
+						"SEC",
+						"SECRET_KEY"
+					],
+					[
+						"para",
+						"para_dict"
+					],
+					[
+						"grid-au",
+						"grid-auto-rows\tproperty"
+					],
+					[
+						"in_con",
+						"in_container_loc"
+					],
+					[
+						"is",
+						"is_authenticated"
+					],
+					[
+						"url",
+						"url_is_exempt"
+					],
+					[
+						"Url",
+						"url_is_exempt"
+					],
+					[
+						"L",
+						"LOGIN_EXEMPT_URLS"
+					],
+					[
+						"PRODU",
+						"PRODUCTION_IP"
+					],
+					[
+						"dtst",
+						"dtstr_day"
+					],
+					[
+						"in_obj",
+						"in_obj_db_loc"
+					],
+					[
+						"do_trans",
+						"do_transport_remote_file"
+					],
+					[
+						"pro",
+						"PRODUCTION_IP"
+					],
+					[
+						"PRO",
+						"PRODUCTION_IP"
+					],
+					[
+						"get_o",
+						"get_object_or_404"
+					],
+					[
+						"User",
+						"UserUpdateForm"
+					],
+					[
+						"Us",
+						"UserCreationForm"
+					],
+					[
+						"my_r",
+						"my_range_h"
+					],
+					[
+						"my",
+						"my_range_l"
+					],
+					[
+						"in_src",
+						"in_srcyear"
+					],
+					[
+						"in_attachment",
+						"in_attachment_name"
+					],
+					[
+						"exter",
+						"extracted_bos"
+					],
+					[
+						"extra",
+						"extracted_text"
+					],
+					[
+						"mail_",
+						"mail_number"
+					],
+					[
+						"do_get_",
+						"do_get_mails_contents"
+					],
+					[
+						"f",
+						"f"
+					],
+					[
+						"pop",
+						"pop_word"
+					],
+					[
+						"uniq",
+						"unique_words"
+					],
+					[
+						"tmp_in",
+						"tmp_in_cum_stats_1"
+					],
+					[
+						"new_",
+						"new_word_stats"
+					],
+					[
+						"nw",
+						"new_word_stats"
+					],
+					[
+						"in_comple",
+						"in_completion_datetime"
+					],
+					[
+						"ob",
+						"object_list"
+					],
+					[
+						"desc",
+						"describe_list"
+					],
+					[
+						"pattern",
+						"file_name_pattern"
+					],
+					[
+						"channel",
+						"channel_data"
+					],
+					[
+						"tmp_",
+						"tmp_in_cls_body"
+					],
+					[
+						"do_wr",
+						"do_write_inst"
+					],
+					[
+						"process",
+						"process_id"
+					],
+					[
+						"in_out",
+						"in_output_style"
+					],
+					[
+						"in_outp",
+						"in_output_style_pattern"
+					],
+					[
+						"cl_pa",
+						"cl_params_loc"
+					],
+					[
+						"in_topics",
+						"in_topics_terms"
+					],
+					[
+						"in_pars",
+						"in_parse_result"
+					],
+					[
+						"cl_p",
+						"cl_params_ext"
+					],
+					[
+						"cl",
+						"cl_params_loc"
+					],
+					[
+						"cl_para",
+						"cl_params_loc"
+					],
+					[
+						"cl_",
+						"cl_params_ext"
+					],
+					[
+						"cl_par",
+						"cl_params_ext"
+					],
+					[
+						"clobj",
+						"clobject_location"
+					],
+					[
+						"page",
+						"page_title"
+					],
+					[
+						"clob",
+						"clobject_location"
+					],
+					[
+						"border_",
+						"border_bottom"
+					],
+					[
+						"get",
+						"get_legal_moves"
+					],
+					[
+						"twin",
+						"twin_values_temp"
+					],
+					[
+						"di",
+						"diagonal_unitsa"
+					],
+					[
+						"diago",
+						"diagonal_unitsd"
+					],
+					[
+						"w_hl",
+						"w_hlayer_drop"
+					],
+					[
+						"train",
+						"train_rec_count"
+					],
+					[
+						"test",
+						"test_rec_count"
+					],
+					[
+						"review",
+						"reviews_test"
+					],
+					[
+						"ab",
+						"absolute_correct"
+					],
+					[
+						"abs",
+						"absolute_false"
+					],
+					[
+						"rew",
+						"reviews_test"
+					],
+					[
+						"w_c",
+						"w_cnt_1"
+					],
+					[
+						"revie",
+						"reviews_test"
+					],
+					[
+						"nr",
+						"nr_ol"
+					],
+					[
+						"outp",
+						"output_error_term"
+					],
+					[
+						"hid",
+						"hidden_error_term"
+					],
+					[
+						"hi",
+						"hidden_layer_in"
+					],
+					[
+						"output",
+						"output_layer_in"
+					],
+					[
+						"learn",
+						"learnrate"
+					],
+					[
+						"ta",
+						"targets_test"
+					],
+					[
+						"b_",
+						"b_gradient"
+					],
+					[
+						"num",
+						"num_iterations"
+					],
+					[
+						"lear",
+						"learning_rate"
+					],
+					[
+						"m",
+						"m"
+					],
+					[
+						"la",
+						"laos_life_exp"
+					],
+					[
+						"b",
+						"bmi_life_model"
+					],
+					[
+						"article",
+						"article_chain"
+					],
+					[
+						"arti",
+						"article_chain"
+					],
+					[
+						"fi",
+						"first_relative_link"
+					],
+					[
+						"mat",
+						"matrix1"
+					]
+				]
+			},
+			"buffers":
+			[
+				{
+					"file": ".gitignore",
+					"settings":
+					{
+						"buffer_size": 42,
+						"encoding": "UTF-8",
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "test.py",
+					"settings":
+					{
+						"buffer_size": 32,
+						"encoding": "UTF-8",
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"contents": "<snippet>\n    <content><![CDATA[\nHello, ${1:this} is a ${2:snippet}.\n]]></content>\n    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->\n    <!-- <tabTrigger>hello</tabTrigger> -->\n    <!-- Optional: Set a scope to limit where the snippet will trigger -->\n    <!-- <scope>source.python</scope> -->\n</snippet>\n",
+					"settings":
+					{
+						"buffer_size": 332,
+						"line_ending": "Windows"
+					}
+				}
+			],
+			"build_system": "",
+			"build_system_choices":
+			[
+				[
+					[
+						[
+							"Packages/Python/Python.sublime-build",
+							""
+						],
+						[
+							"Packages/Python/Python.sublime-build",
+							"Syntax Check"
+						]
+					],
+					[
+						"Packages/Python/Python.sublime-build",
+						""
+					]
+				]
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"inst",
+						"Package Control: Install Package"
+					],
+					[
+						"list",
+						"Package Control: List Packages"
+					],
+					[
+						"ma",
+						"Material Theme: Advanced configuration"
+					],
+					[
+						"Package Control: li",
+						"Package Control: List Packages"
+					],
+					[
+						"mat",
+						"Material Theme: Advanced configuration"
+					],
+					[
+						"insta",
+						"Package Control: Install Package"
+					],
+					[
+						"packag",
+						"Install Package Control"
+					],
+					[
+						"",
+						"About"
+					],
+					[
+						"emo",
+						"Emoji: Insert Emoji"
+					],
+					[
+						"in",
+						"Package Control: Install Package"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"Package Control: install",
+						"Package Control: Install Package"
+					],
+					[
+						"Package Control: ",
+						"Package Control: Enable Package"
+					],
+					[
+						"Package Control: ins",
+						"Package Control: Install Package"
+					],
+					[
+						"Package Control: inst",
+						"Package Control: Install Package"
+					],
+					[
+						"INST",
+						"Package Control: Install Package"
+					],
+					[
+						"instal",
+						"Package Control: Install Package"
+					]
+				],
+				"width": 0.0
+			},
+			"console":
+			{
+				"height": 232.0,
+				"history":
+				[
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"expanded_folders":
+			[
+				"/C/python_venvs/102_chess_game"
+			],
+			"file_history":
+			[
+				"/C/Users/Lars/.ssh/known_hosts",
+				"/C/Users/Lars/OneDrive/Dokumente/25_Work/2560_software/gitlab/gitlab2.pub",
+				"/C/Users/Lars/OneDrive/Dokumente/25_Work/2560_software/gitlab/gitlab.pub",
+				"/C/python_venvs/102_chess_game/web_project/web_project/helper.py",
+				"/C/python_venvs/102_chess_game/web_project/blog/templates/blog/components/i_navbar_top.html",
+				"/C/python_venvs/102_chess_game/web_project/web_project/settings.py",
+				"/C/Users/Lars/OneDrive/Dokumente/25_Work/2510_Python/pipenv_setup.py",
+				"/C/Users/Lars/OneDrive/Dokumente/25_Work/2510_Python/setpip.py",
+				"/C/Users/Lars/AppData/Roaming/Sublime Text 3/Packages/User/102_chess_game.sublime-build",
+				"/C/Users/Lars/AppData/Roaming/Sublime Text 3/Packages/User/101_django_template.sublime-build",
+				"/C/python_venvs/102_chess_game/test.py",
+				"/C/Users/Lars/AppData/Roaming/Sublime Text 3/Packages/User/102_django_template.sublime-build",
+				"/C/python_venvs/99_snipp_block/tf_sequential_nn.py",
+				"/C/python_venvs/99_snipp_block/py_multiprocessing_pool.py",
+				"/C/Users/Lars/AppData/Roaming/Sublime Text 3/Packages/User/snippets/pd_io_json_loads..sublime-snippet",
+				"/C/Users/Lars/AppData/Roaming/Sublime Text 3/Packages/User/snippets/py_io_json_dumps.sublime-snippet",
+				"/C/Users/Lars/AppData/Roaming/Sublime Text 3/Packages/User/snippets/py_io_json_loads.sublime-snippet",
+				"/C/python_venvs/102_chess_game/pipenv_setup.py",
+				"/C/python_venvs/my_cmds.bat",
+				"/C/python_venvs/102_chess_game/.env",
+				"/C/Users/Lars/OneDrive/Dokumente/25_Work/2510_Python/db777e5f-ec42-4524-a755-6965ca044393.dmp",
+				"/C/python_venvs/pipenv_setup.py",
+				"/C/python_venvs/102_chess_game/readme_setup.py",
+				"/C/python_venvs/122_chess_play/web_project/chess/test.py",
+				"/C/python_venvs/122_chess_play/web_project/chess/static/drag_and_drop.js",
+				"/C/python_venvs/122_chess_play/web_project/web_project/settings.py",
+				"/C/python_venvs/122_chess_play/web_project/chess/urls.py",
+				"/C/python_venvs/122_chess_play/web_project/web_project/my_stuff.py",
+				"/C/python_venvs/setenv.py",
+				"/C/python_venvs/setgit.py",
+				"/C/python_venvs/102_chess_game/README.md",
+				"/C/python_venvs/345_test/False.env",
+				"/C/python_venvs/345_test/web_project/manage.py",
+				"/C/python_venvs/345_test/.env",
+				"/C/python_venvs/102_chess_game/adhogtest.py",
+				"/C/Users/Lars/OneDrive/Dokumente/25_Work/2510_Python/setenv.py",
+				"/C/python_venvs/345_test/Pipfile",
+				"/C/python_venvs/345_test/Pipfile.lock",
+				"/C/Users/Lars/OneDrive/Dokumente/25_Work/2560_software/environments_pip/09_django_web_project/web_project/web_project/settings.py",
+				"/C/Users/Lars/OneDrive/Dokumente/70 Web/7090_Transport/122_chess_play/2019-10-15-12-37-28-459218_122_chess_play_init/web_project/web_project/my_stuff.py",
+				"/C/Users/Lars/OneDrive/Dokumente/70 Web/7090_Transport/122_chess_play/2019-10-15-12-37-28-459218_122_chess_play_init/web_project/web_project/settings.py",
+				"/C/python_venvs/122_chess_play/web_project/web_project/mystuff.py",
+				"/C/python_venvs/22_chess_play/code/Game/settings.py",
+				"/C/Users/Lars/OneDrive/Dokumente/70 Web/7090_Transport/122_chess_play/2019-10-15-10-02-20-741158_122_chess_play_init/web_project/web_project/settings.py",
+				"/C/Users/Lars/OneDrive/Dokumente/70 Web/7090_Transport/122_chess_play/2019-10-14-15-14-48-851342_122_chess_play_init/web_project/web_project/settings.py",
+				"/C/python_venvs/999_alice_admin/www_admin/launch_template.pyw",
+				"/C/Users/Lars/OneDrive/Dokumente/25_Work/2510_Python/mkdjangoenv.py",
+				"/C/python_venvs/999_alice_admin/www_admin/call_alice.py",
+				"/C/python_venvs/122_chess_play/launch_template.pyw",
+				"/C/python_venvs/22_chess_play/launch_template.pyw",
+				"/C/python_venvs/122_chess_play/Scripts/activate_this.py",
+				"/C/python_venvs/122_chess_play/web_project/blog/templates/blog/components/i_css_scripts_foot.html",
+				"/C/python_venvs/122_chess_play/web_project/chess/templates/chess/v_chess_detail.html",
+				"/C/python_venvs/122_chess_play/web_project/chess/models.py",
+				"/C/python_venvs/122_chess_play/web_project/chess/views.py",
+				"/C/python_venvs/122_chess_play/web_project/blog/templates/blog/components/i_css_scripts_head.html",
+				"/C/python_venvs/122_chess_play/web_project/blog/templates/blog/base.html",
+				"/C/python_venvs/122_chess_play/web_project/chess/templates/chess/base.html",
+				"/C/python_venvs/122_chess_play/web_project/web_project/urls.py",
+				"/C/python_venvs/22_chess_play/code/chess/Board.py",
+				"/C/Users/Lars/OneDrive/Dokumente/25_Work/2510_Python/setdjango.py",
+				"/C/python_venvs/99_snipp_block/subprocess_kill_prc_pid.py",
+				"/C/Users/Lars/OneDrive/Dokumente/70 Web/www_admin/launch_template.pyw",
+				"/C/python_venvs/Taskkill",
+				"/C/python_venvs/01_django_template/launch_template.pyw",
+				"/C/Users/Lars/OneDrive/Dokumente/25_Work/2510_Python/Player.py",
+				"/C/python_venvs/22_chess_play/code/chess/Player.py",
+				"/C/python_venvs/22_chess_play/code/chess/urls.py",
+				"/C/python_venvs/22_chess_play/code/chess/serializers.py",
+				"/C/python_venvs/22_chess_play/code/chess/static/resources.js",
+				"/E/22_chess/code2/chess/templates/chess/v_chess_detail.html",
+				"/C/Users/Lars/OneDrive/Dokumente/70 Web/web_project/blog/templates/articles/v_article_detail.html",
+				"/C/Users/Lars/OneDrive/Dokumente/70 Web/web_project/blog/templates/articles/v_articles.html",
+				"/C/python_venvs/22_chess_play/code/chess/templates/chess/i_css_scripts_head.html",
+				"/C/python_venvs/22_chess_play/code/chess/static/drag_and_drop.js",
+				"/C/python_venvs/22_chess_play/code/chess/templates/chess/base.html",
+				"/C/Users/Lars/OneDrive/Dokumente/70 Web/web_project/signups/urls.py",
+				"/C/Users/Lars/OneDrive/Dokumente/70 Web/web_project/web_project/helper.py",
+				"/C/Users/Lars/OneDrive/Dokumente/70 Web/web_project/signups/models.py",
+				"/C/Users/Lars/OneDrive/Dokumente/70 Web/web_project/signups/forms.py",
+				"/C/Users/Lars/OneDrive/Dokumente/70 Web/web_project/signups/views.py",
+				"/C/Users/Lars/OneDrive/Dokumente/70 Web/web_project/signups/templates/signups/v_signup_form.html",
+				"/C/Users/Lars/OneDrive/Dokumente/70 Web/web_project/blog/urls.py",
+				"/C/Users/Lars/OneDrive/Dokumente/70 Web/web_project/blog/forms.py",
+				"/C/Users/Lars/OneDrive/Dokumente/70 Web/web_project/blog/views_posts.py",
+				"/C/Users/Lars/OneDrive/Dokumente/70 Web/web_project/blog/templates/blog/v_post_form.html",
+				"/C/Users/Lars/OneDrive/Dokumente/70 Web/web_project/blog/templates/blog/components/i_css_scripts_head.html",
+				"/C/Users/Lars/OneDrive/Dokumente/70 Web/web_project/web_project/settings.py",
+				"/C/Users/Lars/OneDrive/Dokumente/70 Web/web_project/blog/templates/blog/v_post_detail.html",
+				"/C/Users/Lars/OneDrive/Dokumente/25_Work/2510_Python/testfiles/breadth_first_searches.py",
+				"/C/Users/Lars/OneDrive/Dokumente/75 Alice/751000_Alice 2019-05-23 00-38-56-012337/all_classes/H_File.py",
+				"/C/Users/Lars/OneDrive/Dokumente/70 Web/www_admin/appadmin/admin.py",
+				"/C/python_venvs/99_snipp_block/dj_models.py",
+				"/C/python_venvs/22_chess_play/code/chess/test.js",
+				"/C/python_venvs/22_chess_play/code/chess/test.py",
+				"/C/python_venvs/22_chess_play/code/Game/urls.py",
+				"/C/python_venvs/22_chess_play/code/chess/templates/chess/v_chess_detail.html",
+				"/C/python_venvs/22_chess_play/code/static/chess/chess_styles.css",
+				"/C/python_venvs/22_chess_play/code/Figure.py",
+				"/C/python_venvs/22_chess_play/code/Board.py",
+				"/C/python_venvs/22_chess_play/code/Player.py",
+				"/C/python_venvs/22_chess_play/code/chess/templates/chess/drag.js",
+				"/C/Users/Lars/AppData/Roaming/Sublime Text 3/Packages/User/snippets/tf_model_predict_argmax.sublime-snippet",
+				"/C/Users/Lars/AppData/Roaming/Sublime Text 3/Packages/User/snippets/time_perf_counter.sublime-snippet",
+				"/C/Users/Lars/AppData/Roaming/Sublime Text 3/Packages/User/22_chess_play.sublime-build",
+				"/C/Users/Lars/OneDrive/Dokumente/25_Work/2560_software/environments_pip/22_chess/temp.txt",
+				"/C/Users/Lars/OneDrive/Dokumente/25_Work/2510_Python/testfiles/threading_example.py",
+				"/C/python_venvs/21_chess/code/mytest.py",
+				"/C/python_venvs/21_chess/code/Network2.py",
+				"/C/python_venvs/21_chess/code/NNSimulate.py",
+				"/C/Users/Lars/OneDrive/Dokumente/25_Work/2510_Python/mkenv.py",
+				"/C/Users/Lars/AppData/Roaming/Sublime Text 3/Packages/User/snippets/pd_df_filter_rows_by_value.sublime-snippet",
+				"/C/Users/Lars/AppData/Roaming/Sublime Text 3/Packages/User/snippets/pd_df_rename_selective_cols.sublime-snippet",
+				"/C/Users/Lars/AppData/Roaming/Sublime Text 3/Packages/User/snippets/pd_df_rename_all_columns.sublime-snippet",
+				"/C/python_venvs/21_chess/logs/2019-09-09-17-28-40-976278/train/events.out.tfevents.1568042921.BLUE-MOON.12592.262825.v2",
+				"/C/Users/Lars/AppData/Roaming/Sublime Text 3/Packages/User/snippets/pd_io_xls_load_single_OR_multip.sublime-snippet",
+				"/C/Users/Lars/AppData/Roaming/Sublime Text 3/Packages/User/snippets/plt_io_bokeh_submit_form.sublime-snippet",
+				"/C/Users/Lars/AppData/Roaming/Sublime Text 3/Packages/User/03_tensorflow_gpu.sublime-build",
+				"/C/python_venvs/99_snipp_block/subprocess_call_cmd_sequence.py",
+				"/C/python_venvs/99_snipp_block/pd_DF_datetime_calendar_index_loan_payment_example.py",
+				"/C/Users/Lars/AppData/Roaming/Sublime Text 3/Packages/User/snippets/subprocess_call_sequence.sublime-snippet",
+				"/C/Users/Lars/AppData/Roaming/Sublime Text 3/Packages/User/snippets/re_sub.sublime-snippet",
+				"/C/Users/Lars/AppData/Roaming/Sublime Text 3/Packages/User/snippets/py_setattr_mult_values.sublime-snippet",
+				"/C/Users/Lars/AppData/Roaming/Sublime Text 3/Packages/User/snippets/py_io_pickle_save.sublime-snippet",
+				"/C/Users/Lars/AppData/Roaming/Sublime Text 3/Packages/User/snippets/py_io_pickle_load.sublime-snippet",
+				"/C/Users/Lars/AppData/Roaming/Sublime Text 3/Packages/User/snippets/plt_pd_df_plot_df_altair.sublime-snippet",
+				"/C/python_venvs/99_snipp_block/plt_chart_Altair_from_random_Df.py",
+				"/C/Users/Lars/AppData/Roaming/Sublime Text 3/Packages/User/snippets/os_media_path.sublime-snippet"
+			],
+			"find":
+			{
+				"height": 24.0
+			},
+			"find_in_files":
+			{
+				"height": 158.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": true,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"groups":
+			[
+				{
+					"selected": 0,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": ".gitignore",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 42,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"bracket_highlighter.busy": false,
+									"bracket_highlighter.clone": -1,
+									"bracket_highlighter.clone_locations":
+									{
+										"close":
+										{
+										},
+										"icon":
+										{
+										},
+										"open":
+										{
+										},
+										"unmatched":
+										{
+										}
+									},
+									"bracket_highlighter.clone_regions":
+									[
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content"
+									],
+									"bracket_highlighter.locations":
+									{
+										"close":
+										{
+										},
+										"icon":
+										{
+										},
+										"open":
+										{
+										},
+										"unmatched":
+										{
+										}
+									},
+									"bracket_highlighter.regions":
+									[
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content"
+									],
+									"git_gutter_is_enabled": true,
+									"syntax": "Packages/Git Formats/Git Ignore.sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 2,
+							"type": "text"
+						}
+					]
+				},
+				{
+					"selected": 1,
+					"sheets":
+					[
+						{
+							"buffer": 1,
+							"file": "test.py",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 32,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										32,
+										32
+									]
+								],
+								"settings":
+								{
+									"auto_complete": false,
+									"bracket_highlighter.busy": false,
+									"bracket_highlighter.clone": -1,
+									"bracket_highlighter.clone_locations":
+									{
+										"close":
+										{
+										},
+										"icon":
+										{
+										},
+										"open":
+										{
+										},
+										"unmatched":
+										{
+										}
+									},
+									"bracket_highlighter.clone_regions":
+									[
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content"
+									],
+									"bracket_highlighter.locations":
+									{
+										"close":
+										{
+										},
+										"icon":
+										{
+										},
+										"open":
+										{
+										},
+										"unmatched":
+										{
+										}
+									},
+									"bracket_highlighter.regions":
+									[
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content"
+									],
+									"git_gutter_is_enabled": true,
+									"syntax": "Packages/Djaneiro/Syntaxes/Python Django.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 1,
+							"type": "text"
+						},
+						{
+							"buffer": 2,
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 332,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										332,
+										332
+									]
+								],
+								"settings":
+								{
+									"bracket_highlighter.busy": false,
+									"bracket_highlighter.clone": -1,
+									"bracket_highlighter.locations":
+									{
+										"close":
+										{
+										},
+										"icon":
+										{
+										},
+										"open":
+										{
+										},
+										"unmatched":
+										{
+										}
+									},
+									"bracket_highlighter.regions":
+									[
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content"
+									],
+									"default_dir": "C:\\Users\\Lars\\AppData\\Roaming\\Sublime Text 3\\Packages\\User",
+									"default_extension": "sublime-snippet",
+									"git_gutter_is_enabled": false,
+									"syntax": "Packages/XML/XML.sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 24.0
+			},
+			"input":
+			{
+				"height": 69.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					],
+					[
+						1,
+						0,
+						2,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					0.5,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.exec":
+			{
+				"height": 252.0
+			},
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"output.mdpopups":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "Packages/User/102_chess_game.sublime-build",
+			"position": "0,2,3,-1,-1,-1,-1,561,25,25,677",
+			"project": "chess_game.sublime-project",
+			"replace":
+			{
+				"height": 44.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"py_mul",
+						"99_snipp_block\\py_multiprocessing_pool.py"
+					],
+					[
+						"dj",
+						"99_snipp_block\\dj_models.py"
+					],
+					[
+						"dj_mo",
+						"99_snipp_block\\dj_models.py"
+					],
+					[
+						"tes",
+						"22_chess_play\\code\\test.py"
+					],
+					[
+						"mult",
+						"99_snipp_block\\py_multiprocessing_pool.py"
+					],
+					[
+						"pd",
+						"99_snipp_block\\pd_DF_datetime_calendar_index_loan_payment_example.py"
+					],
+					[
+						"tim",
+						"99_snipp_block\\pd_DF_datetime_calendar_index_loan_payment_example.py"
+					],
+					[
+						"alt",
+						"99_snipp_block\\plt_chart_Altair_from_random_Df.py"
+					],
+					[
+						"plt",
+						"99_snipp_block\\plt_chart_Altair_from_random_Df.py"
+					],
+					[
+						"test",
+						"test.py"
+					],
+					[
+						"char",
+						"C:\\python_venvs\\99_snipp_block\\Chart_plot_Altair_from_Df.py"
+					],
+					[
+						"te",
+						"test.py"
+					],
+					[
+						"fi",
+						"Figure.py"
+					],
+					[
+						"comp",
+						"scipy_compare_two_functions.py"
+					],
+					[
+						"",
+						"web_project\\settings.py"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"selected_group": 1,
+			"settings":
+			{
+			},
+			"show_minimap": false,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 278.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+				"max_columns": 3
+			},
+			"window_id": 33,
+			"workspace_name": "/C/python_venvs/102_chess_game/chess_game.sublime-workspace"
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+			"/C/python_venvs/102_chess_game/chess_game.sublime-workspace",
+			"/C/python_venvs/101_django_template/101_django_template.sublime-workspace",
+			"/C/Users/Lars/OneDrive/Dokumente/25_Work/2510_Python/set_files.sublime-workspace",
+			"/C/Users/Lars/OneDrive/Dokumente/25_Work/2560_software/environments_pip/01_django_template/django_template.sublime-workspace",
+			"/C/Users/Lars/OneDrive/Dokumente/25_Work/2510_Python/01_projects/22_chess/chess_project.sublime-workspace",
+			"/C/Users/Lars/OneDrive/Dokumente/25_Work/2510_Python/projects/04_win10_install.sublime-workspace"
+		]
+	}
+}

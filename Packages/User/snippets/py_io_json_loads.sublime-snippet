@@ -1,0 +1,11 @@
+<snippet>
+	<content><![CDATA[
+with open(${1:file}, 'r') as f: json_str = json.load(f)
+    ${2:out_dict} = json.loads(json_str)
+]]>
+	</content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>py_io_json_loads</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>source.python</scope>
+</snippet>

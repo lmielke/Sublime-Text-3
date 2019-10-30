@@ -1,0 +1,22 @@
+<snippet>
+    <content><![CDATA[
+import os
+import subprocess
+
+# to add to start menu in windowns
+# requires activate_this.py inside the script folder, see software/environments_pip folder
+# alternatively create environment with virtualenv and copy to venv
+
+activate_this = os.path.join(${1:"C:/python_venvs/01_django_template"}, "Scripts", "activate_this.py")
+exec(open(activate_this).read(), dict(__file__=activate_this))
+
+template = ${2:r'C:/python_venvs/01_django_template/manage.py'}
+subprocess.Popen("start chrome /new-tab http://localhost:8000/admin/", shell=True)
+subprocess.call([${3:'python', template, 'runserver'}], shell=True)
+
+]]></content>
+    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+<tabTrigger>py_subprocess_launch_app_in_venv</tabTrigger>
+    <!-- Optional: Set a scope to limit where the snippet will trigger -->
+<scope>source.python</scope>
+</snippet>

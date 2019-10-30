@@ -1,0 +1,17 @@
+<snippet>
+    <content><![CDATA[
+import pandas as pd
+dfm = pd.read_html(${1:url})
+
+# NOTE ! for loop below is additional to mofify the loaded tables i.e. rename
+for i, table in enumerate(dfm):
+    try:
+        table.rename(index=str, columns={"FZ": "Formelzeichen"})
+    except Exception as e:
+        print(f"table {i} with {e}")
+        ]]></content>
+    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+    <tabTrigger>pd_io_html_load_modify</tabTrigger>
+    <!-- Optional: Set a scope to limit where the snippet will trigger -->
+    <scope>source.python</scope>
+</snippet>

@@ -1,0 +1,10 @@
+<snippet>
+    <content><![CDATA[
+self.model = tf.keras.models.load_model(${1:modelPath})
+modelScore = np.argmax(self.model.predict(${2:x}))
+]]></content>
+    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+    <tabTrigger>tf_model_predict_argmax</tabTrigger>
+    <!-- Optional: Set a scope to limit where the snippet will trigger -->
+    <scope>source.python</scope>
+</snippet>

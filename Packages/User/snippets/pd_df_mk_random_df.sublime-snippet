@@ -1,0 +1,10 @@
+<snippet>
+    <content><![CDATA[
+pd.DataFrame(np.random.randint(low=${1:100}, high=${2:1000}, size=(${3:4,100}))).T
+${4:df}.columns = [letter for letter in 'ABCDEFGHIJ'[:${5:cols}]]
+]]></content>
+    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+    <tabTrigger>pd_df_mk_random_df</tabTrigger>
+    <!-- Optional: Set a scope to limit where the snippet will trigger -->
+    <scope>source.python</scope>
+</snippet>

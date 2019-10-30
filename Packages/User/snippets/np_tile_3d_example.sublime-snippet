@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+np.tile(${1:matrix}, [${2:3, 1, 1}]) # example for 3d array [${2:3, 1, 1}] is number of repetitions per dim
+]]></content>
+    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+    <tabTrigger>np_tile_3d_example</tabTrigger>
+    <!-- Optional: Set a scope to limit where the snippet will trigger -->
+    <scope>source.python</scope>
+</snippet>

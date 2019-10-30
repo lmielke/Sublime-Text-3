@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+df.to_excel(xls, sheet_name=${1:sheetName})
+]]></content>
+    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+    <tabTrigger>pd_io_xls_to_excel</tabTrigger>
+    <!-- Optional: Set a scope to limit where the snippet will trigger -->
+    <scope>source.python</scope>
+</snippet>

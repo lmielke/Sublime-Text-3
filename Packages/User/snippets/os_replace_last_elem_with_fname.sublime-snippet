@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+os.path.join(os.path.split(os.getcwd())[0], ${1:'A.html'})
+]]></content>
+    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+    <tabTrigger>os_replace_last_elem_with_fname</tabTrigger>
+    <!-- Optional: Set a scope to limit where the snippet will trigger -->
+    <scope>source.python</scope>
+</snippet>

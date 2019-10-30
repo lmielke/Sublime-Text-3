@@ -1,0 +1,5 @@
+{
+    "cmd": ["C:/python_venvs/sys_operations/Scripts/python.exe", "$file"],
+    "selector": "source.python",
+    "file_regex": "^\\s*File \"(...*?)\", line ([0-9]*)"
+}

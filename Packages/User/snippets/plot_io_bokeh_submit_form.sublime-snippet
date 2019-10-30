@@ -1,0 +1,25 @@
+<snippet>
+	<content><![CDATA[
+# to run type: bokeh serve --show bokeh_submit_form.py
+# shows a html page with a simple submit form
+from bokeh.io import curdoc
+from bokeh.layouts import column
+from bokeh.models.widgets import TextInput, Button, Paragraph
+
+button, input = Button(label=${1:"Say Hi"}), TextInput(value=${2:"Lars"})
+output = Paragraph()
+
+def update():
+	output.text = ${3:"hello, "} + input.value
+button.on_click(update)
+
+layout = column(button, input, output)
+curdoc().add_root(layout)
+
+# ---> to run type: bokeh serve --show bokeh_submit_form.py <---
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>plot_io_bokeh_submit_form</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>source.python</scope>
+</snippet>

@@ -1,0 +1,13 @@
+<snippet>
+	<content><![CDATA[
+${1:reflist} = ["auto", "vogel", "fisch", "fenster"]
+${2:sortlist} = ["vogel", "auto", "fenster"]
+
+${3:sorted_list} = sorted(${2:sortlist}, key=lambda x: ${1:reflist}.index(x))
+print(${3:sorted_list})
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>py_sort_by_ext_refkey</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>source.python</scope>
+</snippet>

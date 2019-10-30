@@ -1,0 +1,19 @@
+<snippet>
+	<content><![CDATA[
+import subprocess
+"""runs sequence of subprocess commands
+	cmds need to be a list, for single cmd remove from for loop
+"""
+${1:cmds} = {1: ["dir", r"path1"], 2:["dir", r"path2"], 3: ["dir", r"path3"]}
+for step, cmd in ${1:cmds}.items():
+    subprocess.call([cmd[0], cmd[1]], shell=True)
+    print(${2:cmds})
+
+]]>
+	
+</content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>subprocess_call_sequence</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>source.python</scope>
+</snippet>

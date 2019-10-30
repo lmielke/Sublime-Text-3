@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+with open(${1:"C:/python_venvs/99_snipp_block/matrix4x4.pickle"}, "rb") as f: ${2:matrix} = pickle.load(f)
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>py_io_pickle_load</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>source.python</scope>
+</snippet>
