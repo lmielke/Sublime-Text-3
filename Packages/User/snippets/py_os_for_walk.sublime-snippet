@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-for dir, dirs, files in os.walk(${1:path}):
+for _dir, dirs, files in os.walk(${1:path}):
 ]]></content>
     <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
     <tabTrigger>py_os_for_walk</tabTrigger>
