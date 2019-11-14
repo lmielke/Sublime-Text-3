@@ -1,0 +1,12 @@
+<snippet>
+    <content><![CDATA[
+json_str = json.dumps(my_iterable, ensure_ascii=False)
+for val in my_list:
+    json_str = re.sub(re.compile(${1:f"""("[B]":\\\W?")(\{val[:-1]\})(")"""}), ${2:r"\1" + val + r"\3"}, ${3:json_str})
+my_iterable = json.loads(json_str)
+]]></content>
+    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+    <tabTrigger>re_sub_dict_nested_replace_val</tabTrigger>
+    <!-- Optional: Set a scope to limit where the snippet will trigger -->
+    <scope>source.python</scope>
+</snippet>

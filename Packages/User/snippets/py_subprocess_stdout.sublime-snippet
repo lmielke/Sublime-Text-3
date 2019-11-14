@@ -1,9 +1,10 @@
 <snippet>
     <content><![CDATA[
-os.path.join(os.getcwd(), ${1:'media'}, ${2:'fileName.html'})
+str(subprocess.Popen('${1:cmd}', shell=True, stdout=subprocess.PIPE).stdout.read())
+
 ]]></content>
     <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
-<tabTrigger>os_media_path</tabTrigger>
+    <tabTrigger>py_subprocess_stdout</tabTrigger>
     <!-- Optional: Set a scope to limit where the snippet will trigger -->
-<scope>source.python</scope>
+    <scope>source.python</scope>
 </snippet>

@@ -1,9 +1,9 @@
 <snippet>
     <content><![CDATA[
-(os.path.basename(${1:yourPath})).split('.')[${2:0}]
+pd.read_excel(${1:xlPath}, sheet_name='${2:sheetName}')
 ]]></content>
     <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
-    <tabTrigger>py_os_get_element_fromPath</tabTrigger>
+    <tabTrigger>pd_xlsx_read_single_sheet</tabTrigger>
     <!-- Optional: Set a scope to limit where the snippet will trigger -->
     <scope>source.python</scope>
 </snippet>

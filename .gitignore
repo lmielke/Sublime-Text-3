@@ -2,3 +2,4 @@
 Lib/
 Local/
 Backup/
+*.sublime-build
