@@ -1,6 +1,6 @@
 <snippet>
     <content>
-        <![CDATA[with open("${1:file}", "${2:w}") as f: ${3:outtext} = f.read()]]>
+        <![CDATA[with open("${1:file}", "${2:w}") as f: ${3:outtext} = ${4:}]]>
     </content>
     <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
     <tabTrigger>py_io_with_open</tabTrigger>

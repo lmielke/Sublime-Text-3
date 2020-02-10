@@ -1,3 +1,4 @@
 [
     { "keys": ["ctrl+alt+s"], "command": "new_snippet" },    
+    { "keys": ["ctrl+shift+space"], "command": "expand_selection", "args": {"to": "scope"} },
 ]

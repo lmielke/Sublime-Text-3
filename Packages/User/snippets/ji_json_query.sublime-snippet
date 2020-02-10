@@ -1,10 +1,9 @@
 <snippet>
     <content><![CDATA[
-str(subprocess.Popen('${1:cmd}', shell=True, stdout=subprocess.PIPE).stdout.read())
-
+<ji><${1:func}>{"source": "${2:t001}", "type": "${3:mult}","key": "${4:task}", "query": ${5:null}}</ji>
 ]]></content>
     <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
-    <tabTrigger>py_subprocess_stdout</tabTrigger>
+    <tabTrigger>ji_json_str_query</tabTrigger>
     <!-- Optional: Set a scope to limit where the snippet will trigger -->
-    <scope>source.python</scope>
+    <!-- <scope>source.python</scope> -->
 </snippet>

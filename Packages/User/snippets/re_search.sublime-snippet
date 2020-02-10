@@ -1,10 +1,9 @@
 <snippet>
-    <content>
-        <![CDATA[
-re.sub(r"([${1::. }])", r"${2:-}" , ${3:str(dt.datetime.now())})]]>
-    </content>
+    <content><![CDATA[
+re.search(re.compile(r"${1:#.?<ji><\w*>(.*)</ji>}"), ${2:f.read()})[${3:1}]
+]]></content>
     <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
-    <tabTrigger>dt_str_to_fileName_snippet</tabTrigger>
+    <tabTrigger>re_search</tabTrigger>
     <!-- Optional: Set a scope to limit where the snippet will trigger -->
     <scope>source.python</scope>
 </snippet>

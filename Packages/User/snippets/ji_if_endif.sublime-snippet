@@ -1,9 +1,12 @@
 <snippet>
     <content><![CDATA[
-subprocess.call([${1:'python', template, 'runserver'}], shell=True)
+{% if ${1:cond1} == ${2:cond2} %}
+    ${3:dosomething}
+${4:{% else %}}
+{% endif %}
 ]]></content>
     <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
-<tabTrigger>py_subprocess_cmds</tabTrigger>
+    <tabTrigger>ji_if_endif</tabTrigger>
     <!-- Optional: Set a scope to limit where the snippet will trigger -->
-<scope>source.python</scope>
+    <!-- <scope>source.python</scope> -->
 </snippet>

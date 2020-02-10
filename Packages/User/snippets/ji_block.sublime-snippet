@@ -1,9 +1,9 @@
 <snippet>
     <content><![CDATA[
-re.search(re.compile(r"(${1:searchStr})", requests.get(${2:url}).text)[0])
+{% block ${1:title} %} <${2:tag}>{{ ${3:params.value} }}</${2:tag}> {% endblock ${1:title} %}
 ]]></content>
     <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
-<tabTrigger>re_search_www_term</tabTrigger>
+    <tabTrigger>ji_block</tabTrigger>
     <!-- Optional: Set a scope to limit where the snippet will trigger -->
-<scope>source.python</scope>
+    <!-- <scope>source.python</scope> -->
 </snippet>

@@ -1,0 +1,23 @@
+<snippet>
+    <content><![CDATA[
+    <div class="outer_board">
+        <table class="chess_table">
+            {% for row in ${1:params} %}
+                <tr>
+                    {% for cell in row %}
+                        <td>
+                            <div class="chess_field" draggable="false" id="{{ cell.td_id }}">
+                                ${2:someContant}
+                            </div>
+                        </td>
+                   {%endfor%}
+               </tr>
+            {%endfor%}
+        </table>
+    </div>
+]]></content>
+    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+    <tabTrigger>ji_table_loop</tabTrigger>
+    <!-- Optional: Set a scope to limit where the snippet will trigger -->
+    <!-- <scope>source.python</scope> -->
+</snippet>

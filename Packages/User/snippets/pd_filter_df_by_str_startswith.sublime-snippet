@@ -1,10 +1,9 @@
 <snippet>
-    <content>
-        <![CDATA[
-re.sub(r"([${1::. }])", r"${2:-}" , ${3:str(dt.datetime.now())})]]>
-    </content>
+    <content><![CDATA[
+df.loc[[not i for i in df.index.str.startswith('#')]]
+]]></content>
     <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
-    <tabTrigger>dt_str_to_fileName_snippet</tabTrigger>
+    <tabTrigger>pd_filter_df_by_str_startswith</tabTrigger>
     <!-- Optional: Set a scope to limit where the snippet will trigger -->
     <scope>source.python</scope>
 </snippet>

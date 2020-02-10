@@ -1,0 +1,32 @@
+<snippet>
+    <content><![CDATA[
+"""<br><br>
+
+*Last update: 2020-${1:01-17}*
+###${2:Title}
+${3:Initializes Searches}
+
+___
+###${4:What it does}
+              
+########################### TEST ###########################
+# INPUTS
+${5:arg1}: ${6:value}
+
+# FUNCTION
+pycall: __init__(self, ${5:arg1}, )
+shellcall: tbd
+
+# RETURN
+returns: ${7:value}
+
+########################### TEST ###########################
+
+"""
+
+]]></content>
+    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+    <tabTrigger>docstr_base_test</tabTrigger>
+    <!-- Optional: Set a scope to limit where the snippet will trigger -->
+    <scope>source.python</scope>
+</snippet>

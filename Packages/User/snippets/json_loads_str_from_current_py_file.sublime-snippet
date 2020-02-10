@@ -1,0 +1,11 @@
+<snippet>
+    <content><![CDATA[
+with open(os.path.join(os.getcwd(), '${1:current}.py'), 'r') as f:
+    json_str = f.read().replace('\n', '').replace('\t', '')
+    ${2:out} = json.loads(re.search(f"#.?<${3:args}_${4:func}>(.*)</${3:args}_${4:func}>", json_str)[1])
+]]></content>
+    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+    <tabTrigger>json_loads_str_from_current_py_file</tabTrigger>
+    <!-- Optional: Set a scope to limit where the snippet will trigger -->
+    <scope>source.python</scope>
+</snippet>

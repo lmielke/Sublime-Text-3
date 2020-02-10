@@ -1,0 +1,43 @@
+<snippet>
+    <content><![CDATA[
+########################### TEMPLATE ###########################
+# source: 01_socket
+# type: single
+# key: NAME
+# query: null
+########################### TEMPLATE ###########################
+{% set params = paramses[query] -%}
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+    <link rel="stylesheet" type="text/css" href="${1:./css}/main.css">
+    <link rel="stylesheet" type="text/css" href="${1:./css}/tables.css">
+    <link rel="stylesheet" type="text/css" href="${1:./css}/github-markdown.css">
+    <title>${2;pageTitle}</title>
+</head>
+<body>
+    <div class="div_glob">
+        <h1 class="page-h1">
+            ${3:Pageheader}
+        </h1>
+        <h2>
+            ${4:markDownTitle}
+        </h2>
+    </div>
+    <div>
+        <article class="${5:markdown-body}">
+            markDownBody
+        </article>
+    </div>
+</body>
+</html>
+]]></content>
+    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+    <tabTrigger>em_index_html</tabTrigger>
+    <!-- Optional: Set a scope to limit where the snippet will trigger -->
+    <!-- <scope>source.python</scope> -->
+</snippet>

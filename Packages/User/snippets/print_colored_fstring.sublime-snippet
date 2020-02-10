@@ -1,0 +1,10 @@
+<snippet>
+    <content><![CDATA[
+# import colorama as ${1:color} --> ${1:color}.init()
+print(f"\{${1:color}.Fore.${2:RED}\}${3:text/var}\{${1:color}.Style.RESET_ALL\}")
+]]></content>
+    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+    <tabTrigger>print_colored_fstring</tabTrigger>
+    <!-- Optional: Set a scope to limit where the snippet will trigger -->
+    <!-- <scope>source.python</scope> -->
+</snippet>

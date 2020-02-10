@@ -1,10 +1,9 @@
 <snippet>
-    <content>
-        <![CDATA[
-re.sub(r"([${1::. }])", r"${2:-}" , ${3:str(dt.datetime.now())})]]>
-    </content>
+    <content><![CDATA[
+    parser.add_argument('-host', nargs='?', const='localhost', type=str, help='host to <u></u>se')
+]]></content>
     <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
-    <tabTrigger>dt_str_to_fileName_snippet</tabTrigger>
+    <tabTrigger>arg_argument_add_with_default</tabTrigger>
     <!-- Optional: Set a scope to limit where the snippet will trigger -->
     <scope>source.python</scope>
 </snippet>
