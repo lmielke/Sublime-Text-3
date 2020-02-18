@@ -1,4 +1,12 @@
 [
     { "keys": ["ctrl+alt+s"], "command": "new_snippet" },    
     { "keys": ["ctrl+shift+space"], "command": "expand_selection", "args": {"to": "scope"} },
-]
+    { "keys": ["alt+shift+up"], "command": "move", "args": {"by": "stops", "empty_line": true, "forward": false, "extend": true} },
+    { "keys": ["alt+shift+down"], "command": "move", "args": {"by": "stops", "empty_line": true, "forward": true, "extend": true} },
+    { "keys": ["alt+up"], "command": "move", "args": {"by": "stops", "empty_line": true, "forward": false} },
+    { "keys": ["alt+down"], "command": "move", "args": {"by": "stops", "empty_line": true, "forward": true} },
+    { "keys": ["left"], "command": "move", "args": {"by": "subwords", "forward": false} },
+    { "keys": ["right"], "command": "move", "args": {"by": "subword_ends", "forward": true} },
+    { "keys": ["shift+left"], "command": "move", "args": {"by": "subwords", "forward": false, "extend": true} },
+    { "keys": ["shift+right"], "command": "move", "args": {"by": "subword_ends", "forward": true, "extend": true} },
+    ]
