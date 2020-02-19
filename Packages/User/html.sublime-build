@@ -1,0 +1,6 @@
+{
+    "cmd": ["C:/Program Files (x86)/Google/Chrome/Application/chrome.exe", 
+             "$file",],
+    "selector": "text.html",
+    "file_regex": "^\\s*File \"(...*?)\", line ([0-9]*)"
+}
